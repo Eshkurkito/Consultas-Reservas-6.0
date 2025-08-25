@@ -1,4 +1,7 @@
-streamlit
-pandas
-openpyxl
-altair
+streamlit>=1.34
+pandas>=2.2
+numpy>=1.26
+openpyxl>=3.1
+altair>=5.0
+pyarrow>=15.0
+XlsxWriter>=3.1
